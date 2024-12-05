@@ -1,0 +1,60 @@
+body{
+    background-color: lightblue;
+
+}
+h1{
+    color: red;
+    text-align: left;
+    
+}
+footer{
+    background-color: black;
+    p{
+       color: red;
+    }
+}
+header{
+    background-color: black;
+}
+.logo{
+    margin-left: 100px;
+}
+.cards{
+    margin-left: 200px;
+background-color: skyblue;
+    background-size: cover;
+}
+#location{
+    color: greenyellow;
+}
+img{
+    filter: drop-shadow(0 0 20px);
+    filter: hue-rotate(150);
+}
+
+@media screen and(max-width:500px) {
+  .logo{
+    color: blue;
+    width: 20px;
+    
+  }
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+}
